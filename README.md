@@ -7,6 +7,7 @@ Jumping Frogs is a game for your phone. It has 10 levels. They are:
 - swimming fish
 - trolls and bridges
 - villagers and giants
+- swimming mermaids
 
 ## Jumping Frogs
 
