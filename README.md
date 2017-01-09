@@ -11,7 +11,7 @@ Jumping Frogs is a game for your phone. It has 10 levels. They are:
 ## Jumping Frogs
 
 In this level there are several jumping frogs. As they jump, you will click on one
-and that one will go up. You are trying to get him to land on a grassing dirt area
+and that one will go up. You are trying to get him to land on a grassy dirt area
 that's higher up.
 
 The game is named jumping frogs, and the first level has jumping frogs, but there
