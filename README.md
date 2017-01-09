@@ -1,6 +1,6 @@
 # Jumping Frogs
 
-![jumping frogs](https://github.com/devoncarew/jumping-frogs/blob/master/storyboards/frog.png)
+![jumping frogs](https://github.com/devoncarew/jumping-frogs/blob/master/storyboards/frogs.png)
 
 Under construction!
 
