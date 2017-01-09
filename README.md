@@ -1,5 +1,7 @@
 # Jumping Frogs
 
+storyboards/frog.png
+
 Jumping Frogs is a game for your phone. It has 10 levels. They are:
 
 - jumping frogs
