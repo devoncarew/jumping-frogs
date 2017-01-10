@@ -24,7 +24,11 @@ are several additional levels.
 
 ## Breathing Dragon
 
-TODO:
+It has two screens: one screen where you can click continue, and one screen where you do the fighting.
+
+You will be standing on dirt, and you'll be fighting the dragon. You have a sword, and the dragon can
+burn your sword using his fire. You fight him by running up to him and then swinging your sword (just
+like the in villagers and giants).
 
 ## Swimming Fish
 
