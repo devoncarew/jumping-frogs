@@ -32,7 +32,9 @@ like the in villagers and giants).
 
 ## Swimming Fish
 
-TODO:
+The background will be blue, and on the bottom there will be seaweed. There will be lots of fish swimming,
+and you're trying to get them to swim over to the gold. The gold will be moving around, so it's hard to
+get the fish to touch the gold. Also, the gold will be in a treasure box.
 
 ## Trolls and Bridges
 
