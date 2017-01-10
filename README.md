@@ -38,7 +38,9 @@ get the fish to touch the gold. Also, the gold will be in a treasure box.
 
 ## Trolls and Bridges
 
-TODO:
+The trolls are running over bridges and you have to find the right route for them to go. If you don't
+find the right one then they can't get to their secret hide-out. They forgot the route, so you have to
+help them.
 
 ## Villagers and Giants
 
