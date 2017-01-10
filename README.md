@@ -44,5 +44,9 @@ help them.
 
 ## Villagers and Giants
 
-TODO:
+There's one giant and the villagers are trying to run away. But there's one brave villager that fights
+the giant. And you have to run up to the giant and swing your sword (just like in Breathing Dragon).
 
+## Swimming Mermaids
+
+TODO:
