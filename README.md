@@ -12,7 +12,7 @@ Jumping Frogs is a game for your phone. It has 10 levels. They are:
 - trolls and bridges
 - villagers and giants
 - swimming mermaids
-- burning fire
+- burning house
 
 ## Jumping Frogs
 
@@ -57,7 +57,7 @@ the giant. And you have to run up to the giant and swing your sword (just like i
 
 TODO:
 
-## Burning Fire
+## Burning House
 
 The house is burning and they called firemen. The game is you have to spray the firetruck's hose.
 You have to direct the spray to where it should go on the house. When you touch the hose it sprays the
