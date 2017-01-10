@@ -12,6 +12,7 @@ Jumping Frogs is a game for your phone. It has 10 levels. They are:
 - trolls and bridges
 - villagers and giants
 - swimming mermaids
+- burning fire
 
 ## Jumping Frogs
 
@@ -21,6 +22,8 @@ go up. You are trying to get him to land on a grassy dirt area that's higher up.
 The game is named jumping frogs, and the first level has jumping frogs, but there are several additional
 levels.
 
+[storyboard](https://github.com/devoncarew/jumping-frogs/blob/master/storyboards/level1.md)
+
 ## Breathing Dragon
 
 It has two screens: one screen where you can click continue, and one screen where you do the fighting.
@@ -28,6 +31,8 @@ It has two screens: one screen where you can click continue, and one screen wher
 You will be standing on dirt, and you'll be fighting the dragon. You have a sword, and the dragon can
 burn your sword using his fire. You fight him by running up to him and then swinging your sword (just
 like the in Villagers and Giants).
+
+[storyboard](https://github.com/devoncarew/jumping-frogs/blob/master/storyboards/level2.md)
 
 ## Swimming Fish
 
@@ -49,3 +54,9 @@ the giant. And you have to run up to the giant and swing your sword (just like i
 ## Swimming Mermaids
 
 TODO:
+
+## Burning Fire
+
+The house is burning and they called firemen. The game is you have to spray the firetruck's hose.
+You have to direct the spray to where it should go on the house. When you touch the hose it sprays the
+house and puts out the fire.
