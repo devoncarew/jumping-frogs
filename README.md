@@ -14,6 +14,7 @@ Jumping Frogs is a game for your phone. It has 10 levels. They are:
 - swimming mermaids
 - burning house
 - princeses and palaces
+- dancing ballerinas
 
 ## Jumping Frogs
 
@@ -67,5 +68,9 @@ You have to direct the spray to where it should go on the house. When you touch 
 house and puts out the fire.
 
 ## Princeses and Palaces
+
+TODO:
+
+## Dancing Ballerinas
 
 TODO:
