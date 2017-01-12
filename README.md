@@ -73,4 +73,6 @@ TODO:
 
 ## Dancing Ballerinas
 
-TODO:
+They're cartwheeling and you have to click on them so they will spin off the page. And the balleria going
+right is going in the back. And the balleria going left, they're in the front. There's a whole lot of
+ballerinas - a line of them going one way and a lone going another way.
