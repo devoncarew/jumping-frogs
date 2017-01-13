@@ -70,7 +70,7 @@ house and puts out the fire.
 
 ## Princesses and Palaces
 
-TODO:
+The princesses are running to the palace - TODO:
 
 ## Dancing Ballerinas
 
