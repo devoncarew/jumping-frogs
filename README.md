@@ -70,7 +70,8 @@ house and puts out the fire.
 
 ## Princesses and Palaces
 
-The princesses are running to the palace - TODO:
+The princesses are running to the palace; they are running away from the bad princess. You help the good
+princesses.
 
 ## Dancing Ballerinas
 
