@@ -15,6 +15,7 @@ Jumping Frogs is a game for your phone. It has 10 levels. They are:
 - burning house
 - princesses and palaces
 - dancing ballerinas
+- snowy fields
 
 ## Jumping Frogs
 
@@ -76,3 +77,9 @@ TODO:
 They're cartwheeling and you have to click on them so they will spin off the page. And the balleria going
 right is going in the back. And the balleria going left, they're in the front. There's a whole lot of
 ballerinas - a line of them going one way and a lone going another way.
+
+## Snowy Fields
+
+There's a guy running around trying to find his house but it's too snowy so you have to code a path for
+him. There's some arrows on the top corner and across from that are some boxes. When you're ready just click
+the smiley face.
