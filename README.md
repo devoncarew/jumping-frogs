@@ -45,6 +45,8 @@ The background will be blue, and on the bottom there will be seaweed. There will
 and you're trying to get them to swim over to the gold. The gold will be moving around, so it's hard to
 get the fish to touch the gold. Also, the gold will be in a treasure box.
 
+Background music: Spring In My Step - Silent Partner
+
 ## Trolls and Bridges
 
 The trolls are running over bridges and you have to find the right route for them to go. If you don't
