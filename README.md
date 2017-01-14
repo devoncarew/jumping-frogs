@@ -100,3 +100,5 @@ Background music: Puzzle - Tobu (Free Copyright Music)
 There's a guy running around trying to find his house but it's too snowy so you have to code a path for
 him. There's some arrows on the top corner and across from that are some boxes. When you're ready just click
 the smiley face.
+
+Background music: Walk With Me - Silent Partner | YouTube Audio Library
