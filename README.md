@@ -37,6 +37,8 @@ You will be standing on dirt, and you'll be fighting the dragon. You have a swor
 burn your sword using his fire. You fight him by running up to him and then swinging your sword (just
 like the in Villagers and Giants).
 
+Background music: Best of Synthwave And Retro Electro [Part1]
+
 [storyboard](https://github.com/devoncarew/jumping-frogs/blob/master/storyboards/level2.md)
 
 ## Swimming Fish
