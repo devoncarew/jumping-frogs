@@ -62,6 +62,8 @@ Background music: Adventures - A Himitsu | SoundCloud
 There's one giant and the villagers are trying to run away. But there's one brave villager that fights
 the giant. And you have to run up to the giant and swing your sword (just like in Breathing Dragon).
 
+Background music: Icy Vindur - A Himitsu | SoundCloud
+
 ## Swimming Mermaids
 
 The background will be blue, and on the bottom there will be clams. There will be lots of mermaids
