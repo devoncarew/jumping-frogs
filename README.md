@@ -55,6 +55,8 @@ The trolls are running over bridges and you have to find the right route for the
 find the right one then they can't get to their secret hide-out. They forgot the route, so you have to
 help them.
 
+Background music: Adventures - A Himitsu | SoundCloud
+
 ## Villagers and Giants
 
 There's one giant and the villagers are trying to run away. But there's one brave villager that fights
