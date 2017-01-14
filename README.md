@@ -93,6 +93,8 @@ They're cartwheeling and you have to click on them so they will spin off the pag
 right is going in the back. And the balleria going left, they're in the front. There's a whole lot of
 ballerinas - a line of them going one way and a lone going another way.
 
+Background music: Puzzle - Tobu (Free Copyright Music)
+
 ## Snowy Fields
 
 There's a guy running around trying to find his house but it's too snowy so you have to code a path for
