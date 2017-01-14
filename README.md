@@ -70,6 +70,8 @@ The background will be blue, and on the bottom there will be clams. There will b
 swimming, and you're trying to get them to swim over to the gold. Also, the gold will be in a treasure
 box.
 
+Background music: Blue Skies - Silent Partner | YouTube Audio Library
+
 ## Burning House
 
 The house is burning and they called firemen. The game is you have to spray the firetruck's hose.
