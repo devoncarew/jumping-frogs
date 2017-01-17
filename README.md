@@ -68,7 +68,7 @@ Background music: Icy Vindur - A Himitsu | SoundCloud
 
 The background will be blue, and on the bottom there will be clams. There will be lots of mermaids
 swimming, and you're trying to get them to swim over to the gold. Also, the gold will be in a treasure
-box.
+box. As you move forward, the treasure box will sink into the sand slightly (to make it harder).
 
 Background music: Blue Skies - Silent Partner | YouTube Audio Library
 
