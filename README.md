@@ -12,7 +12,7 @@ Jumping Frogs is a game for your phone. It has 10 levels. They are:
 - trolls and bridges
 - villagers and giants
 - swimming mermaids
-- burning house
+- hearts and cards
 - princesses and palaces
 - dancing ballerinas
 - snowy fields
@@ -72,11 +72,10 @@ box. As you move forward, the treasure box will sink into the sand slightly (to 
 
 Background music: Blue Skies - Silent Partner | YouTube Audio Library
 
-## Burning House
+## Hearts and Cards
 
-The house is burning and they called firemen. The game is you have to spray the firetruck's hose.
-You have to direct the spray to where it should go on the house. When you touch the hose it sprays the
-house and puts out the fire.
+You draw in hearts; you have a choice of colors to draw in, then you cut out the hearts. You use your
+hand to glue the hearts on the cards, and you can write a message with your finger.
 
 Background music: Greenery - Silent Partner | YouTube Audio Library
 
